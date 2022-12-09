@@ -1,0 +1,68 @@
+# main menu navigation
+menu:
+  Home: /
+  About: /about
+  Archive: /archives
+
+widgets:
+  - tag
+  - archive
+  - recent_posts
+  - category
+  - profile
+
+# social config
+social:
+  github: zhao6888
+user:
+  name: ZhaoChen
+  avatar: https://i.328888.xyz/2022/12/09/fouTt.jpeg
+  location: 苏州工业园区
+  description: 逸一时，误一世
+  footnotes: # footnotes
+
+# documents: https://github.com/utterance/utterances
+# API config: https://utteranc.es/
+comment_utteranc:
+  enable: true
+  repo: szxwxx13/blog # your blog repo
+
+
+# documents: https://valine.js.org/quickstart.html
+comment_valine:
+  enable: false
+  appId:
+  appKey:
+
+comment_disqus:
+    enable: false
+    url:  # the url of your website main domain like this https://xxx.xxx/
+    name: # the short name in disqus
+
+# dark
+# light
+# user-can-set
+appearance: auto # Default value is auto
+
+# Miscellaneous
+favicon: https://i.328888.xyz/2022/12/09/fouTt.th.jpeg
+
+friend_links:
+  - title: Google
+    link: https://www.google.com/
+  - title: Github
+    link: https://www.github.com、
+  - title: 易加
+    link: https://college.sipedu.org/TeachingPlatform/index.html#/app/home
+# Google Analytics
+ga_track_id:
+ga_domain:
+
+# Baidu Analytics
+ba_track_id:
+
+# picture of about page
+about_pic: about.png
+
+image_zoom:
+  enable: true
